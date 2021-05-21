@@ -1,5 +1,6 @@
 # DreamPC
-A SQL database-centric web application
+# Team members: naifuz2, jiaqic7, yufei6, bwang36
+A SQL database-centric web application.
 
 There are numerous models of personal computers in the market, and sometimes it is difficult to choose one from them,
 especially when the choice costs thousands of dollars. Our application, DreamPC, is a great helper. 
