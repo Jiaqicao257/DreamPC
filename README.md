@@ -1,5 +1,5 @@
 # DreamPC
-# Team members: naifuz2, jiaqic7, yufei6, bwang36
+# Team members: Naifu Zheng, Jiaqi Cao, Yufei Zhu, Binghui Wang
 A SQL database-centric web application.
 
 There are numerous models of personal computers in the market, and sometimes it is difficult to choose one from them,
