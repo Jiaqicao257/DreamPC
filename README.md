@@ -1,5 +1,4 @@
 # DreamPC
-# Team members: Naifu Zheng, Jiaqi Cao, Yufei Zhu, Binghui Wang
 A SQL database-centric web application.
 
 There are numerous models of personal computers in the market, and sometimes it is difficult to choose one from them,
@@ -12,4 +11,13 @@ so we include questions regarding brand, model type, etc.
 Our application then searches for the computer models according to the attributes given by user preference, 
 and outputs a list of models for the user. If the user still cannot decide, DreamPC will randomly choose one from the list.
 
+# Authors
+Jiaqi Cao, Naifu Zheng, Yufei Zhu, Binghui Wang
+
+# Demo video
 The demo video can be found here: https://www.youtube.com/watch?v=qgZYy-p7a9s
+
+# Built with
+* [Bootstrap](https://getbootstrap.com) - The front-end design sorftware used.
+* [Flask](https://flask.palletsprojects.com/en/2.0.x/) - Web framework used.
+* [Python](https://www.python.org) - Back-end software used.
